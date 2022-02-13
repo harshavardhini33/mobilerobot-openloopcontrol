@@ -7,7 +7,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 1. RoboMaster EP core
 2. Python 3.7
 
-## Procedure
+## Procedure :
 
 ### Step 1:
 Use from robomaster import robot
